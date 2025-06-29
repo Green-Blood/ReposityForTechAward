@@ -1,0 +1,25 @@
+{
+    "name": "UI.Installers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:08fc2ee9edbb34b1e89d5932d854f02b",
+        "GUID:c3d6cee9e570c7246937674d0a42f053",
+        "GUID:60512c5fd4daf8b4e999922284b2f13d",
+        "GUID:babf07d4cffb6a248a18786957661e75",
+        "GUID:f2a700a87fd7e384a9b1517e21c332a1",
+        "GUID:7b942d8c61e188d468df36241c726c95",
+        "GUID:1a00c9f8042adad44bf9dacfc2515e06",
+        "GUID:d0c21eeafb59e794285a2010c672690d",
+        "GUID:09a89e494b6788e489407ef7cc37e986"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

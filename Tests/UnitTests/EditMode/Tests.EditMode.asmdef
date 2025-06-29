@@ -1,0 +1,46 @@
+{
+    "name": "Tests.EditMode",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Core",
+        "ProjectDawn.Navigation.Hybrid",
+        "ProjectDawn.Navigation",
+        "Systems",
+        "Extensions",
+        "UniTask",
+        "Zenject",
+        "Unity.Addressables",
+        "AV.Tags",
+        "Meta",
+        "UniRx"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "FluentAssertions.dll",
+        "NSubstitute.dll",
+        "Castle.Core.dll",
+        "Microsoft.CodeAnalysis.CSharp.dll",
+        "System.Diagnostics.EventLog.dll",
+        "System.Reflection.Metadata.dll",
+        "System.Collections.Immutable.dll",
+        "System.Runtime.CompilerServices.Unsafe.dll",
+        "System.Security.Principal.Windows.dll",
+        "Microsoft.CodeAnalysis.dll",
+        "System.Text.Encoding.CodePages.dll",
+        "Moq.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

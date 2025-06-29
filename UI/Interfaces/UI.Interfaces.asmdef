@@ -1,0 +1,20 @@
+{
+    "name": "UI.Interfaces",
+    "rootNamespace": "",
+    "references": [
+        "GUID:08fc2ee9edbb34b1e89d5932d854f02b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:babf07d4cffb6a248a18786957661e75",
+        "GUID:1a00c9f8042adad44bf9dacfc2515e06",
+        "GUID:09a89e494b6788e489407ef7cc37e986"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
