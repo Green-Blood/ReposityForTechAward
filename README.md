@@ -15,7 +15,7 @@ So, if you plan to actually read and understand what’s going on here, here’s
 A bit about me: I’m the lead developer—you can learn more on my [homepage](https://bit.ly/jey-homepage) or on [LinkedIn](https://www.linkedin.com/in/jeyodilkhujaev/). To get in touch, ping me on [Telegram](https://t.me/bloodyjey).
 
 ---
-**Project duration**: Two years, driven mostly by me.
+**Project has been in development for about two years, driven mostly by me.**
 
 ### ⚙️ Main Technology Stack
 
